@@ -12,6 +12,7 @@ langchainhub = "*"
 python-dotenv = "*"
 black = "*"
 langchain-ollama = "*"
+tools = "*"
 
 [dev-packages]
 
